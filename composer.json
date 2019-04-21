@@ -1,6 +1,6 @@
 {
-  "name": "tinyada/rsa",
-  "description": "RSA Package for Laravel5",
+  "name": "nivanmorgan/rsa",
+  "description": "Updated TinyAda/RSA Package for Laravel5",
   "keywords": [
     "RSA",
     "Laravel",
@@ -8,17 +8,21 @@
   ],
   "license": "MIT",
   "support": {
-    "email": "mradxz@gmail.com"
+    "email": "nivanmorgan@gmail.com"
   },
   "authors": [
     {
       "name": "Mradxz",
       "email": "mradxz@gmail.com"
+    },
+    {
+      "name": "Nivan Morgan",
+      "email": "nivanmorgan@gmail.com"
     }
   ],
   "require": {
-    "php": ">=5.5.9",
-    "laravel/framework": "5.0.*|5.1.*|5.2.*|5.3.*"
+    "php": ">=7.1.0",
+    "laravel/framework": "5.6.*"
   },
   "require-dev": {
   },
